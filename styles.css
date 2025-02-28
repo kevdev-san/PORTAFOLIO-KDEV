@@ -199,10 +199,7 @@ nav a:hover {
 }
 
 @media (max-width: 768px) { /*esto hace que sea compatible con moviles*/
-    nav {
-        flex-direction: column; /*mueve mi nav  a que se vuelva columna*/
-        align-items: center;
-    }
+
 
     #inicio, #sobremi, #skillset, #contact {
         width: 95%; /*y modifica mi el ancho*/
